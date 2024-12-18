@@ -21,7 +21,7 @@ The system is designed to be simple, intuitive, and easy to use, with basic erro
 
 ## Technologies Used
 
-- **Python** (version 3.x)
+- **Python** (version 3.11)
 - **Tkinter** for the graphical user interface
 - **datetime** for date and time operations
 
@@ -50,15 +50,15 @@ The system is designed to be simple, intuitive, and easy to use, with basic erro
 
 ## How to Use
 
-### 1. **Add a Book**
+### 1. **Add Book**
    - Enter the **Book Title**, **Author Name**, and **ISBN** in the respective fields.
    - Click the **Add Book** button to add the book to the library.
 
-### 2. **Borrow a Book**
+### 2. **Borrow Book**
    - Enter the **User ID** and the **Book ISBN** in the respective fields.
    - Click the **Borrow Book** button. The system will check if the book is available and allow the user to borrow it. The book's due date will be set to 7 days from the current date.
 
-### 3. **Return a Book**
+### 3. **Return Book**
    - Enter the **Book ISBN** of the book you wish to return.
    - Click the **Return Book** button. The system will check if the book was borrowed and then mark it as available again.
 
