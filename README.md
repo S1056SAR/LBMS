@@ -62,7 +62,7 @@ The system is designed to be simple, intuitive, and easy to use, with basic erro
    - Enter the **Book ISBN** of the book you wish to return.
    - Click the **Return Book** button. The system will check if the book was borrowed and then mark it as available again.
 
-### 4. **Search for a Book**
+### 4. **Search for Book**
    - Enter a search term (e.g., part of the book's title, author's name, or ISBN).
    - Click the **Search Book** button to display any books that match the search criteria.
 
