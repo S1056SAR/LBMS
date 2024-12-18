@@ -73,3 +73,18 @@ The system is designed to be simple, intuitive, and easy to use, with basic erro
 
 The project is structured as follows:
 
+1. Book Class
+
+The Book class represents a book in the library system. It contains attributes and methods related to a book's properties and its status in the library.
+Attributes:
+
+    title: A string representing the book's title.
+    author: A string representing the book's author.
+    isbn: A string representing the book's ISBN number (used as a unique identifier).
+    available: A boolean indicating whether the book is currently available for borrowing.
+    due_date: A datetime object that stores the due date for the book if it is borrowed. It's None if the book is not borrowed.
+
+Methods:
+
+    __init__(): Initializes a new book with title, author, ISBN, availability status, and due date.
+
