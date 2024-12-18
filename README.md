@@ -37,7 +37,7 @@ The system is designed to be simple, intuitive, and easy to use, with basic erro
     ```
 3. Install the required dependencies (if any). In this case, Tkinter should already be included with Python, but ensure you have the latest Python version:
     ```bash
-    pip install -r requirements.txt  # If any dependencies are listed.
+    pip install -r requirements.txt 
     ```
 
 ## Running the Application
